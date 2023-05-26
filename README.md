@@ -1,2 +1,2 @@
 # Python_study
-파이썬 스터드 Repository
+파이썬 스터디 Repository
